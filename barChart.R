@@ -2,7 +2,7 @@ library(gganimate)
 library(tidyverse)
 
 # read input
-ligaData <- read_csv("la-liga-bar-chart-race/laLigaData3.csv")
+ligaData <- read_csv("./data/laLigaData.csv")
 # set clubs as factors
 ligaData$club <- as.factor(ligaData$club)
 # set club's first hex code color to be bar color

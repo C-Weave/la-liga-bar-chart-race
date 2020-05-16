@@ -1,0 +1,646 @@
+year,club,titles,rank,color1,color2,titlesChar
+1929,Barcelona,1,1,#004c99,#000000, 1
+1930,Barcelona,1,1,#004c99,#000000, 1
+1930,Athletic Bilbao,1,2,#ee2523,#000000, 1
+1931,Barcelona,1,2,#004c99,#000000, 1
+1931,Athletic Bilbao,2,1,#ee2523,#000000, 2
+1932,Barcelona,1,2,#004c99,#000000, 1
+1932,Athletic Bilbao,2,1,#ee2523,#000000, 2
+1932,Real Madrid,1,3,#FEBE10,#000000, 1
+1933,Real Madrid,2,2,#FEBE10,#000000, 2
+1933,Barcelona,1,3,#004c99,#000000, 1
+1933,Athletic Bilbao,2,1,#ee2523,#000000, 2
+1934,Real Madrid,2,2,#FEBE10,#000000, 2
+1934,Barcelona,1,3,#004c99,#000000, 1
+1934,Athletic Bilbao,3,1,#ee2523,#000000, 3
+1935,Real Madrid,2,2,#FEBE10,#000000, 2
+1935,Barcelona,1,3,#004c99,#000000, 1
+1935,Athletic Bilbao,3,1,#ee2523,#000000, 3
+1935,Real Betis,1,4,#0BB363,#000000, 1
+1936,Real Madrid,2,2,#FEBE10,#000000, 2
+1936,Barcelona,1,3,#004c99,#000000, 1
+1936,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1936,Real Betis,1,4,#0BB363,#000000, 1
+1937,Real Madrid,2,2,#FEBE10,#000000, 2
+1937,Barcelona,1,3,#004c99,#000000, 1
+1937,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1937,Real Betis,1,4,#0BB363,#000000, 1
+1938,Real Madrid,2,2,#FEBE10,#000000, 2
+1938,Barcelona,1,3,#004c99,#000000, 1
+1938,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1938,Real Betis,1,4,#0BB363,#000000, 1
+1939,Real Madrid,2,2,#FEBE10,#000000, 2
+1939,Barcelona,1,3,#004c99,#000000, 1
+1939,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1939,Real Betis,1,4,#0BB363,#000000, 1
+1940,Atlético Madrid,1,5,#CB3524,#000000, 1
+1940,Real Madrid,2,2,#FEBE10,#000000, 2
+1940,Barcelona,1,3,#004c99,#000000, 1
+1940,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1940,Real Betis,1,4,#0BB363,#000000, 1
+1941,Atlético Madrid,2,3,#CB3524,#000000, 2
+1941,Real Madrid,2,2,#FEBE10,#000000, 2
+1941,Barcelona,1,4,#004c99,#000000, 1
+1941,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1941,Real Betis,1,5,#0BB363,#000000, 1
+1942,Atlético Madrid,2,3,#CB3524,#000000, 2
+1942,Real Madrid,2,2,#FEBE10,#000000, 2
+1942,Barcelona,1,4,#004c99,#000000, 1
+1942,Athletic Bilbao,4,1,#ee2523,#000000, 4
+1942,Real Betis,1,5,#0BB363,#000000, 1
+1942,Valencia,1,6,#ee3524,#000000, 1
+1943,Atlético Madrid,2,3,#CB3524,#000000, 2
+1943,Real Madrid,2,2,#FEBE10,#000000, 2
+1943,Barcelona,1,4,#004c99,#000000, 1
+1943,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1943,Real Betis,1,5,#0BB363,#000000, 1
+1943,Valencia,1,6,#ee3524,#000000, 1
+1944,Atlético Madrid,2,3,#CB3524,#000000, 2
+1944,Real Madrid,2,2,#FEBE10,#000000, 2
+1944,Barcelona,1,5,#004c99,#000000, 1
+1944,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1944,Real Betis,1,6,#0BB363,#000000, 1
+1944,Valencia,2,4,#ee3524,#000000, 2
+1945,Atlético Madrid,2,3,#CB3524,#000000, 2
+1945,Real Madrid,2,2,#FEBE10,#000000, 2
+1945,Barcelona,2,5,#004c99,#000000, 2
+1945,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1945,Real Betis,1,6,#0BB363,#000000, 1
+1945,Valencia,2,4,#ee3524,#000000, 2
+1946,Sevilla,1,7,#f43333,#000000, 1
+1946,Atlético Madrid,2,3,#CB3524,#000000, 2
+1946,Real Madrid,2,2,#FEBE10,#000000, 2
+1946,Barcelona,2,5,#004c99,#000000, 2
+1946,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1946,Real Betis,1,6,#0BB363,#000000, 1
+1946,Valencia,2,4,#ee3524,#000000, 2
+1947,Sevilla,1,7,#f43333,#000000, 1
+1947,Atlético Madrid,2,4,#CB3524,#000000, 2
+1947,Real Madrid,2,3,#FEBE10,#000000, 2
+1947,Barcelona,2,5,#004c99,#000000, 2
+1947,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1947,Real Betis,1,6,#0BB363,#000000, 1
+1947,Valencia,3,2,#ee3524,#000000, 3
+1948,Sevilla,1,7,#f43333,#000000, 1
+1948,Atlético Madrid,2,5,#CB3524,#000000, 2
+1948,Real Madrid,2,4,#FEBE10,#000000, 2
+1948,Barcelona,3,3,#004c99,#000000, 3
+1948,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1948,Real Betis,1,6,#0BB363,#000000, 1
+1948,Valencia,3,2,#ee3524,#000000, 3
+1949,Sevilla,1,7,#f43333,#000000, 1
+1949,Atlético Madrid,2,5,#CB3524,#000000, 2
+1949,Real Madrid,2,4,#FEBE10,#000000, 2
+1949,Barcelona,4,2,#004c99,#000000, 4
+1949,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1949,Real Betis,1,6,#0BB363,#000000, 1
+1949,Valencia,3,3,#ee3524,#000000, 3
+1950,Sevilla,1,7,#f43333,#000000, 1
+1950,Atlético Madrid,3,3,#CB3524,#000000, 3
+1950,Real Madrid,2,5,#FEBE10,#000000, 2
+1950,Barcelona,4,2,#004c99,#000000, 4
+1950,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1950,Real Betis,1,6,#0BB363,#000000, 1
+1950,Valencia,3,4,#ee3524,#000000, 3
+1951,Sevilla,1,7,#f43333,#000000, 1
+1951,Atlético Madrid,4,3,#CB3524,#000000, 4
+1951,Real Madrid,2,5,#FEBE10,#000000, 2
+1951,Barcelona,4,2,#004c99,#000000, 4
+1951,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1951,Real Betis,1,6,#0BB363,#000000, 1
+1951,Valencia,3,4,#ee3524,#000000, 3
+1952,Sevilla,1,7,#f43333,#000000, 1
+1952,Atlético Madrid,4,3,#CB3524,#000000, 4
+1952,Real Madrid,2,5,#FEBE10,#000000, 2
+1952,Barcelona,5,2,#004c99,#000000, 5
+1952,Athletic Bilbao,5,1,#ee2523,#000000, 5
+1952,Real Betis,1,6,#0BB363,#000000, 1
+1952,Valencia,3,4,#ee3524,#000000, 3
+1953,Sevilla,1,7,#f43333,#000000, 1
+1953,Atlético Madrid,4,3,#CB3524,#000000, 4
+1953,Real Madrid,2,5,#FEBE10,#000000, 2
+1953,Barcelona,6,1,#004c99,#000000, 6
+1953,Athletic Bilbao,5,2,#ee2523,#000000, 5
+1953,Real Betis,1,6,#0BB363,#000000, 1
+1953,Valencia,3,4,#ee3524,#000000, 3
+1954,Sevilla,1,7,#f43333,#000000, 1
+1954,Atlético Madrid,4,3,#CB3524,#000000, 4
+1954,Real Madrid,3,5,#FEBE10,#000000, 3
+1954,Barcelona,6,1,#004c99,#000000, 6
+1954,Athletic Bilbao,5,2,#ee2523,#000000, 5
+1954,Real Betis,1,6,#0BB363,#000000, 1
+1954,Valencia,3,4,#ee3524,#000000, 3
+1955,Sevilla,1,7,#f43333,#000000, 1
+1955,Atlético Madrid,4,3,#CB3524,#000000, 4
+1955,Real Madrid,4,4,#FEBE10,#000000, 4
+1955,Barcelona,6,1,#004c99,#000000, 6
+1955,Athletic Bilbao,5,2,#ee2523,#000000, 5
+1955,Real Betis,1,6,#0BB363,#000000, 1
+1955,Valencia,3,5,#ee3524,#000000, 3
+1956,Sevilla,1,7,#f43333,#000000, 1
+1956,Atlético Madrid,4,3,#CB3524,#000000, 4
+1956,Real Madrid,4,4,#FEBE10,#000000, 4
+1956,Barcelona,6,1,#004c99,#000000, 6
+1956,Athletic Bilbao,6,2,#ee2523,#000000, 6
+1956,Real Betis,1,6,#0BB363,#000000, 1
+1956,Valencia,3,5,#ee3524,#000000, 3
+1957,Sevilla,1,7,#f43333,#000000, 1
+1957,Atlético Madrid,4,4,#CB3524,#000000, 4
+1957,Real Madrid,5,3,#FEBE10,#000000, 5
+1957,Barcelona,6,1,#004c99,#000000, 6
+1957,Athletic Bilbao,6,2,#ee2523,#000000, 6
+1957,Real Betis,1,6,#0BB363,#000000, 1
+1957,Valencia,3,5,#ee3524,#000000, 3
+1958,Sevilla,1,7,#f43333,#000000, 1
+1958,Atlético Madrid,4,4,#CB3524,#000000, 4
+1958,Real Madrid,6,3,#FEBE10,#000000, 6
+1958,Barcelona,6,1,#004c99,#000000, 6
+1958,Athletic Bilbao,6,2,#ee2523,#000000, 6
+1958,Real Betis,1,6,#0BB363,#000000, 1
+1958,Valencia,3,5,#ee3524,#000000, 3
+1959,Sevilla,1,7,#f43333,#000000, 1
+1959,Atlético Madrid,4,4,#CB3524,#000000, 4
+1959,Real Madrid,6,3,#FEBE10,#000000, 6
+1959,Barcelona,7,1,#004c99,#000000, 7
+1959,Athletic Bilbao,6,2,#ee2523,#000000, 6
+1959,Real Betis,1,6,#0BB363,#000000, 1
+1959,Valencia,3,5,#ee3524,#000000, 3
+1960,Sevilla,1,7,#f43333,#000000, 1
+1960,Atlético Madrid,4,4,#CB3524,#000000, 4
+1960,Real Madrid,6,3,#FEBE10,#000000, 6
+1960,Barcelona,8,1,#004c99,#000000, 8
+1960,Athletic Bilbao,6,2,#ee2523,#000000, 6
+1960,Real Betis,1,6,#0BB363,#000000, 1
+1960,Valencia,3,5,#ee3524,#000000, 3
+1961,Sevilla,1,7,#f43333,#000000, 1
+1961,Atlético Madrid,4,4,#CB3524,#000000, 4
+1961,Real Madrid,7,2,#FEBE10,#000000, 7
+1961,Barcelona,8,1,#004c99,#000000, 8
+1961,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1961,Real Betis,1,6,#0BB363,#000000, 1
+1961,Valencia,3,5,#ee3524,#000000, 3
+1962,Sevilla,1,7,#f43333,#000000, 1
+1962,Atlético Madrid,4,4,#CB3524,#000000, 4
+1962,Real Madrid,8,2,#FEBE10,#000000, 8
+1962,Barcelona,8,1,#004c99,#000000, 8
+1962,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1962,Real Betis,1,6,#0BB363,#000000, 1
+1962,Valencia,3,5,#ee3524,#000000, 3
+1963,Sevilla,1,7,#f43333,#000000, 1
+1963,Atlético Madrid,4,4,#CB3524,#000000, 4
+1963,Real Madrid,9,1,#FEBE10,#000000, 9
+1963,Barcelona,8,2,#004c99,#000000, 8
+1963,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1963,Real Betis,1,6,#0BB363,#000000, 1
+1963,Valencia,3,5,#ee3524,#000000, 3
+1964,Sevilla,1,7,#f43333,#000000, 1
+1964,Atlético Madrid,4,4,#CB3524,#000000, 4
+1964,Real Madrid,10,1,#FEBE10,#000000, 10
+1964,Barcelona,8,2,#004c99,#000000, 8
+1964,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1964,Real Betis,1,6,#0BB363,#000000, 1
+1964,Valencia,3,5,#ee3524,#000000, 3
+1965,Sevilla,1,7,#f43333,#000000, 1
+1965,Atlético Madrid,4,4,#CB3524,#000000, 4
+1965,Real Madrid,11,1,#FEBE10,#000000, 11
+1965,Barcelona,8,2,#004c99,#000000, 8
+1965,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1965,Real Betis,1,6,#0BB363,#000000, 1
+1965,Valencia,3,5,#ee3524,#000000, 3
+1966,Sevilla,1,7,#f43333,#000000, 1
+1966,Atlético Madrid,5,4,#CB3524,#000000, 5
+1966,Real Madrid,11,1,#FEBE10,#000000, 11
+1966,Barcelona,8,2,#004c99,#000000, 8
+1966,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1966,Real Betis,1,6,#0BB363,#000000, 1
+1966,Valencia,3,5,#ee3524,#000000, 3
+1967,Sevilla,1,7,#f43333,#000000, 1
+1967,Atlético Madrid,5,4,#CB3524,#000000, 5
+1967,Real Madrid,12,1,#FEBE10,#000000, 12
+1967,Barcelona,8,2,#004c99,#000000, 8
+1967,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1967,Real Betis,1,6,#0BB363,#000000, 1
+1967,Valencia,3,5,#ee3524,#000000, 3
+1968,Sevilla,1,7,#f43333,#000000, 1
+1968,Atlético Madrid,5,4,#CB3524,#000000, 5
+1968,Real Madrid,13,1,#FEBE10,#000000, 13
+1968,Barcelona,8,2,#004c99,#000000, 8
+1968,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1968,Real Betis,1,6,#0BB363,#000000, 1
+1968,Valencia,3,5,#ee3524,#000000, 3
+1969,Sevilla,1,7,#f43333,#000000, 1
+1969,Atlético Madrid,5,4,#CB3524,#000000, 5
+1969,Real Madrid,14,1,#FEBE10,#000000, 14
+1969,Barcelona,8,2,#004c99,#000000, 8
+1969,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1969,Real Betis,1,6,#0BB363,#000000, 1
+1969,Valencia,3,5,#ee3524,#000000, 3
+1970,Sevilla,1,7,#f43333,#000000, 1
+1970,Atlético Madrid,6,4,#CB3524,#000000, 6
+1970,Real Madrid,14,1,#FEBE10,#000000, 14
+1970,Barcelona,8,2,#004c99,#000000, 8
+1970,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1970,Real Betis,1,6,#0BB363,#000000, 1
+1970,Valencia,3,5,#ee3524,#000000, 3
+1971,Sevilla,1,7,#f43333,#000000, 1
+1971,Atlético Madrid,6,4,#CB3524,#000000, 6
+1971,Real Madrid,14,1,#FEBE10,#000000, 14
+1971,Barcelona,8,2,#004c99,#000000, 8
+1971,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1971,Real Betis,1,6,#0BB363,#000000, 1
+1971,Valencia,4,5,#ee3524,#000000, 4
+1972,Sevilla,1,7,#f43333,#000000, 1
+1972,Atlético Madrid,6,4,#CB3524,#000000, 6
+1972,Real Madrid,15,1,#FEBE10,#000000, 15
+1972,Barcelona,8,2,#004c99,#000000, 8
+1972,Athletic Bilbao,6,3,#ee2523,#000000, 6
+1972,Real Betis,1,6,#0BB363,#000000, 1
+1972,Valencia,4,5,#ee3524,#000000, 4
+1973,Sevilla,1,7,#f43333,#000000, 1
+1973,Atlético Madrid,7,3,#CB3524,#000000, 7
+1973,Real Madrid,15,1,#FEBE10,#000000, 15
+1973,Barcelona,8,2,#004c99,#000000, 8
+1973,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1973,Real Betis,1,6,#0BB363,#000000, 1
+1973,Valencia,4,5,#ee3524,#000000, 4
+1974,Sevilla,1,7,#f43333,#000000, 1
+1974,Atlético Madrid,7,3,#CB3524,#000000, 7
+1974,Real Madrid,15,1,#FEBE10,#000000, 15
+1974,Barcelona,9,2,#004c99,#000000, 9
+1974,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1974,Real Betis,1,6,#0BB363,#000000, 1
+1974,Valencia,4,5,#ee3524,#000000, 4
+1975,Sevilla,1,7,#f43333,#000000, 1
+1975,Atlético Madrid,7,3,#CB3524,#000000, 7
+1975,Real Madrid,16,1,#FEBE10,#000000, 16
+1975,Barcelona,9,2,#004c99,#000000, 9
+1975,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1975,Real Betis,1,6,#0BB363,#000000, 1
+1975,Valencia,4,5,#ee3524,#000000, 4
+1976,Sevilla,1,7,#f43333,#000000, 1
+1976,Atlético Madrid,7,3,#CB3524,#000000, 7
+1976,Real Madrid,17,1,#FEBE10,#000000, 17
+1976,Barcelona,9,2,#004c99,#000000, 9
+1976,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1976,Real Betis,1,6,#0BB363,#000000, 1
+1976,Valencia,4,5,#ee3524,#000000, 4
+1977,Sevilla,1,7,#f43333,#000000, 1
+1977,Atlético Madrid,8,3,#CB3524,#000000, 8
+1977,Real Madrid,17,1,#FEBE10,#000000, 17
+1977,Barcelona,9,2,#004c99,#000000, 9
+1977,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1977,Real Betis,1,6,#0BB363,#000000, 1
+1977,Valencia,4,5,#ee3524,#000000, 4
+1978,Sevilla,1,7,#f43333,#000000, 1
+1978,Atlético Madrid,8,3,#CB3524,#000000, 8
+1978,Real Madrid,18,1,#FEBE10,#000000, 18
+1978,Barcelona,9,2,#004c99,#000000, 9
+1978,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1978,Real Betis,1,6,#0BB363,#000000, 1
+1978,Valencia,4,5,#ee3524,#000000, 4
+1979,Sevilla,1,7,#f43333,#000000, 1
+1979,Atlético Madrid,8,3,#CB3524,#000000, 8
+1979,Real Madrid,19,1,#FEBE10,#000000, 19
+1979,Barcelona,9,2,#004c99,#000000, 9
+1979,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1979,Real Betis,1,6,#0BB363,#000000, 1
+1979,Valencia,4,5,#ee3524,#000000, 4
+1980,Sevilla,1,7,#f43333,#000000, 1
+1980,Atlético Madrid,8,3,#CB3524,#000000, 8
+1980,Real Madrid,20,1,#FEBE10,#000000, 20
+1980,Barcelona,9,2,#004c99,#000000, 9
+1980,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1980,Real Betis,1,6,#0BB363,#000000, 1
+1980,Valencia,4,5,#ee3524,#000000, 4
+1981,Real Sociedad,1,8,#0067b1,#000000, 1
+1981,Sevilla,1,7,#f43333,#000000, 1
+1981,Atlético Madrid,8,3,#CB3524,#000000, 8
+1981,Real Madrid,20,1,#FEBE10,#000000, 20
+1981,Barcelona,9,2,#004c99,#000000, 9
+1981,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1981,Real Betis,1,6,#0BB363,#000000, 1
+1981,Valencia,4,5,#ee3524,#000000, 4
+1982,Real Sociedad,2,6,#0067b1,#000000, 2
+1982,Sevilla,1,8,#f43333,#000000, 1
+1982,Atlético Madrid,8,3,#CB3524,#000000, 8
+1982,Real Madrid,20,1,#FEBE10,#000000, 20
+1982,Barcelona,9,2,#004c99,#000000, 9
+1982,Athletic Bilbao,6,4,#ee2523,#000000, 6
+1982,Real Betis,1,7,#0BB363,#000000, 1
+1982,Valencia,4,5,#ee3524,#000000, 4
+1983,Real Sociedad,2,6,#0067b1,#000000, 2
+1983,Sevilla,1,8,#f43333,#000000, 1
+1983,Atlético Madrid,8,3,#CB3524,#000000, 8
+1983,Real Madrid,20,1,#FEBE10,#000000, 20
+1983,Barcelona,9,2,#004c99,#000000, 9
+1983,Athletic Bilbao,7,4,#ee2523,#000000, 7
+1983,Real Betis,1,7,#0BB363,#000000, 1
+1983,Valencia,4,5,#ee3524,#000000, 4
+1984,Real Sociedad,2,6,#0067b1,#000000, 2
+1984,Sevilla,1,8,#f43333,#000000, 1
+1984,Atlético Madrid,8,3,#CB3524,#000000, 8
+1984,Real Madrid,20,1,#FEBE10,#000000, 20
+1984,Barcelona,9,2,#004c99,#000000, 9
+1984,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1984,Real Betis,1,7,#0BB363,#000000, 1
+1984,Valencia,4,5,#ee3524,#000000, 4
+1985,Real Sociedad,2,6,#0067b1,#000000, 2
+1985,Sevilla,1,8,#f43333,#000000, 1
+1985,Atlético Madrid,8,3,#CB3524,#000000, 8
+1985,Real Madrid,20,1,#FEBE10,#000000, 20
+1985,Barcelona,10,2,#004c99,#000000, 10
+1985,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1985,Real Betis,1,7,#0BB363,#000000, 1
+1985,Valencia,4,5,#ee3524,#000000, 4
+1986,Real Sociedad,2,6,#0067b1,#000000, 2
+1986,Sevilla,1,8,#f43333,#000000, 1
+1986,Atlético Madrid,8,3,#CB3524,#000000, 8
+1986,Real Madrid,21,1,#FEBE10,#000000, 21
+1986,Barcelona,10,2,#004c99,#000000, 10
+1986,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1986,Real Betis,1,7,#0BB363,#000000, 1
+1986,Valencia,4,5,#ee3524,#000000, 4
+1987,Real Sociedad,2,6,#0067b1,#000000, 2
+1987,Sevilla,1,8,#f43333,#000000, 1
+1987,Atlético Madrid,8,3,#CB3524,#000000, 8
+1987,Real Madrid,22,1,#FEBE10,#000000, 22
+1987,Barcelona,10,2,#004c99,#000000, 10
+1987,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1987,Real Betis,1,7,#0BB363,#000000, 1
+1987,Valencia,4,5,#ee3524,#000000, 4
+1988,Real Sociedad,2,6,#0067b1,#000000, 2
+1988,Sevilla,1,8,#f43333,#000000, 1
+1988,Atlético Madrid,8,3,#CB3524,#000000, 8
+1988,Real Madrid,23,1,#FEBE10,#000000, 23
+1988,Barcelona,10,2,#004c99,#000000, 10
+1988,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1988,Real Betis,1,7,#0BB363,#000000, 1
+1988,Valencia,4,5,#ee3524,#000000, 4
+1989,Real Sociedad,2,6,#0067b1,#000000, 2
+1989,Sevilla,1,8,#f43333,#000000, 1
+1989,Atlético Madrid,8,3,#CB3524,#000000, 8
+1989,Real Madrid,24,1,#FEBE10,#000000, 24
+1989,Barcelona,10,2,#004c99,#000000, 10
+1989,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1989,Real Betis,1,7,#0BB363,#000000, 1
+1989,Valencia,4,5,#ee3524,#000000, 4
+1990,Real Sociedad,2,6,#0067b1,#000000, 2
+1990,Sevilla,1,8,#f43333,#000000, 1
+1990,Atlético Madrid,8,3,#CB3524,#000000, 8
+1990,Real Madrid,25,1,#FEBE10,#000000, 25
+1990,Barcelona,10,2,#004c99,#000000, 10
+1990,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1990,Real Betis,1,7,#0BB363,#000000, 1
+1990,Valencia,4,5,#ee3524,#000000, 4
+1991,Real Sociedad,2,6,#0067b1,#000000, 2
+1991,Sevilla,1,8,#f43333,#000000, 1
+1991,Atlético Madrid,8,3,#CB3524,#000000, 8
+1991,Real Madrid,25,1,#FEBE10,#000000, 25
+1991,Barcelona,11,2,#004c99,#000000, 11
+1991,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1991,Real Betis,1,7,#0BB363,#000000, 1
+1991,Valencia,4,5,#ee3524,#000000, 4
+1992,Real Sociedad,2,6,#0067b1,#000000, 2
+1992,Sevilla,1,8,#f43333,#000000, 1
+1992,Atlético Madrid,8,3,#CB3524,#000000, 8
+1992,Real Madrid,25,1,#FEBE10,#000000, 25
+1992,Barcelona,12,2,#004c99,#000000, 12
+1992,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1992,Real Betis,1,7,#0BB363,#000000, 1
+1992,Valencia,4,5,#ee3524,#000000, 4
+1993,Real Sociedad,2,6,#0067b1,#000000, 2
+1993,Sevilla,1,8,#f43333,#000000, 1
+1993,Atlético Madrid,8,3,#CB3524,#000000, 8
+1993,Real Madrid,25,1,#FEBE10,#000000, 25
+1993,Barcelona,13,2,#004c99,#000000, 13
+1993,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1993,Real Betis,1,7,#0BB363,#000000, 1
+1993,Valencia,4,5,#ee3524,#000000, 4
+1994,Real Sociedad,2,6,#0067b1,#000000, 2
+1994,Sevilla,1,8,#f43333,#000000, 1
+1994,Atlético Madrid,8,3,#CB3524,#000000, 8
+1994,Real Madrid,25,1,#FEBE10,#000000, 25
+1994,Barcelona,14,2,#004c99,#000000, 14
+1994,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1994,Real Betis,1,7,#0BB363,#000000, 1
+1994,Valencia,4,5,#ee3524,#000000, 4
+1995,Real Sociedad,2,6,#0067b1,#000000, 2
+1995,Sevilla,1,8,#f43333,#000000, 1
+1995,Atlético Madrid,8,3,#CB3524,#000000, 8
+1995,Real Madrid,26,1,#FEBE10,#000000, 26
+1995,Barcelona,14,2,#004c99,#000000, 14
+1995,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1995,Real Betis,1,7,#0BB363,#000000, 1
+1995,Valencia,4,5,#ee3524,#000000, 4
+1996,Real Sociedad,2,6,#0067b1,#000000, 2
+1996,Sevilla,1,8,#f43333,#000000, 1
+1996,Atlético Madrid,9,3,#CB3524,#000000, 9
+1996,Real Madrid,26,1,#FEBE10,#000000, 26
+1996,Barcelona,14,2,#004c99,#000000, 14
+1996,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1996,Real Betis,1,7,#0BB363,#000000, 1
+1996,Valencia,4,5,#ee3524,#000000, 4
+1997,Real Sociedad,2,6,#0067b1,#000000, 2
+1997,Sevilla,1,8,#f43333,#000000, 1
+1997,Atlético Madrid,9,3,#CB3524,#000000, 9
+1997,Real Madrid,27,1,#FEBE10,#000000, 27
+1997,Barcelona,14,2,#004c99,#000000, 14
+1997,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1997,Real Betis,1,7,#0BB363,#000000, 1
+1997,Valencia,4,5,#ee3524,#000000, 4
+1998,Real Sociedad,2,6,#0067b1,#000000, 2
+1998,Sevilla,1,8,#f43333,#000000, 1
+1998,Atlético Madrid,9,3,#CB3524,#000000, 9
+1998,Real Madrid,27,1,#FEBE10,#000000, 27
+1998,Barcelona,15,2,#004c99,#000000, 15
+1998,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1998,Real Betis,1,7,#0BB363,#000000, 1
+1998,Valencia,4,5,#ee3524,#000000, 4
+1999,Real Sociedad,2,6,#0067b1,#000000, 2
+1999,Sevilla,1,8,#f43333,#000000, 1
+1999,Atlético Madrid,9,3,#CB3524,#000000, 9
+1999,Real Madrid,27,1,#FEBE10,#000000, 27
+1999,Barcelona,16,2,#004c99,#000000, 16
+1999,Athletic Bilbao,8,4,#ee2523,#000000, 8
+1999,Real Betis,1,7,#0BB363,#000000, 1
+1999,Valencia,4,5,#ee3524,#000000, 4
+2000,RC Deportivo,1,9,#57175E,#000000, 1
+2000,Real Sociedad,2,6,#0067b1,#000000, 2
+2000,Sevilla,1,8,#f43333,#000000, 1
+2000,Atlético Madrid,9,3,#CB3524,#000000, 9
+2000,Real Madrid,27,1,#FEBE10,#000000, 27
+2000,Barcelona,16,2,#004c99,#000000, 16
+2000,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2000,Real Betis,1,7,#0BB363,#000000, 1
+2000,Valencia,4,5,#ee3524,#000000, 4
+2001,RC Deportivo,1,9,#57175E,#000000, 1
+2001,Real Sociedad,2,6,#0067b1,#000000, 2
+2001,Sevilla,1,8,#f43333,#000000, 1
+2001,Atlético Madrid,9,3,#CB3524,#000000, 9
+2001,Real Madrid,28,1,#FEBE10,#000000, 28
+2001,Barcelona,16,2,#004c99,#000000, 16
+2001,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2001,Real Betis,1,7,#0BB363,#000000, 1
+2001,Valencia,4,5,#ee3524,#000000, 4
+2002,RC Deportivo,1,9,#57175E,#000000, 1
+2002,Real Sociedad,2,6,#0067b1,#000000, 2
+2002,Sevilla,1,8,#f43333,#000000, 1
+2002,Atlético Madrid,9,3,#CB3524,#000000, 9
+2002,Real Madrid,28,1,#FEBE10,#000000, 28
+2002,Barcelona,16,2,#004c99,#000000, 16
+2002,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2002,Real Betis,1,7,#0BB363,#000000, 1
+2002,Valencia,5,5,#ee3524,#000000, 5
+2003,RC Deportivo,1,9,#57175E,#000000, 1
+2003,Real Sociedad,2,6,#0067b1,#000000, 2
+2003,Sevilla,1,8,#f43333,#000000, 1
+2003,Atlético Madrid,9,3,#CB3524,#000000, 9
+2003,Real Madrid,29,1,#FEBE10,#000000, 29
+2003,Barcelona,16,2,#004c99,#000000, 16
+2003,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2003,Real Betis,1,7,#0BB363,#000000, 1
+2003,Valencia,5,5,#ee3524,#000000, 5
+2004,RC Deportivo,1,9,#57175E,#000000, 1
+2004,Real Sociedad,2,6,#0067b1,#000000, 2
+2004,Sevilla,1,8,#f43333,#000000, 1
+2004,Atlético Madrid,9,3,#CB3524,#000000, 9
+2004,Real Madrid,29,1,#FEBE10,#000000, 29
+2004,Barcelona,16,2,#004c99,#000000, 16
+2004,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2004,Real Betis,1,7,#0BB363,#000000, 1
+2004,Valencia,6,5,#ee3524,#000000, 6
+2005,RC Deportivo,1,9,#57175E,#000000, 1
+2005,Real Sociedad,2,6,#0067b1,#000000, 2
+2005,Sevilla,1,8,#f43333,#000000, 1
+2005,Atlético Madrid,9,3,#CB3524,#000000, 9
+2005,Real Madrid,29,1,#FEBE10,#000000, 29
+2005,Barcelona,17,2,#004c99,#000000, 17
+2005,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2005,Real Betis,1,7,#0BB363,#000000, 1
+2005,Valencia,6,5,#ee3524,#000000, 6
+2006,RC Deportivo,1,9,#57175E,#000000, 1
+2006,Real Sociedad,2,6,#0067b1,#000000, 2
+2006,Sevilla,1,8,#f43333,#000000, 1
+2006,Atlético Madrid,9,3,#CB3524,#000000, 9
+2006,Real Madrid,29,1,#FEBE10,#000000, 29
+2006,Barcelona,18,2,#004c99,#000000, 18
+2006,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2006,Real Betis,1,7,#0BB363,#000000, 1
+2006,Valencia,6,5,#ee3524,#000000, 6
+2007,RC Deportivo,1,9,#57175E,#000000, 1
+2007,Real Sociedad,2,6,#0067b1,#000000, 2
+2007,Sevilla,1,8,#f43333,#000000, 1
+2007,Atlético Madrid,9,3,#CB3524,#000000, 9
+2007,Real Madrid,30,1,#FEBE10,#000000, 30
+2007,Barcelona,18,2,#004c99,#000000, 18
+2007,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2007,Real Betis,1,7,#0BB363,#000000, 1
+2007,Valencia,6,5,#ee3524,#000000, 6
+2008,RC Deportivo,1,9,#57175E,#000000, 1
+2008,Real Sociedad,2,6,#0067b1,#000000, 2
+2008,Sevilla,1,8,#f43333,#000000, 1
+2008,Atlético Madrid,9,3,#CB3524,#000000, 9
+2008,Real Madrid,31,1,#FEBE10,#000000, 31
+2008,Barcelona,18,2,#004c99,#000000, 18
+2008,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2008,Real Betis,1,7,#0BB363,#000000, 1
+2008,Valencia,6,5,#ee3524,#000000, 6
+2009,RC Deportivo,1,9,#57175E,#000000, 1
+2009,Real Sociedad,2,6,#0067b1,#000000, 2
+2009,Sevilla,1,8,#f43333,#000000, 1
+2009,Atlético Madrid,9,3,#CB3524,#000000, 9
+2009,Real Madrid,31,1,#FEBE10,#000000, 31
+2009,Barcelona,19,2,#004c99,#000000, 19
+2009,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2009,Real Betis,1,7,#0BB363,#000000, 1
+2009,Valencia,6,5,#ee3524,#000000, 6
+2010,RC Deportivo,1,9,#57175E,#000000, 1
+2010,Real Sociedad,2,6,#0067b1,#000000, 2
+2010,Sevilla,1,8,#f43333,#000000, 1
+2010,Atlético Madrid,9,3,#CB3524,#000000, 9
+2010,Real Madrid,31,1,#FEBE10,#000000, 31
+2010,Barcelona,20,2,#004c99,#000000, 20
+2010,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2010,Real Betis,1,7,#0BB363,#000000, 1
+2010,Valencia,6,5,#ee3524,#000000, 6
+2011,RC Deportivo,1,9,#57175E,#000000, 1
+2011,Real Sociedad,2,6,#0067b1,#000000, 2
+2011,Sevilla,1,8,#f43333,#000000, 1
+2011,Atlético Madrid,9,3,#CB3524,#000000, 9
+2011,Real Madrid,31,1,#FEBE10,#000000, 31
+2011,Barcelona,21,2,#004c99,#000000, 21
+2011,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2011,Real Betis,1,7,#0BB363,#000000, 1
+2011,Valencia,6,5,#ee3524,#000000, 6
+2012,RC Deportivo,1,9,#57175E,#000000, 1
+2012,Real Sociedad,2,6,#0067b1,#000000, 2
+2012,Sevilla,1,8,#f43333,#000000, 1
+2012,Atlético Madrid,9,3,#CB3524,#000000, 9
+2012,Real Madrid,32,1,#FEBE10,#000000, 32
+2012,Barcelona,21,2,#004c99,#000000, 21
+2012,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2012,Real Betis,1,7,#0BB363,#000000, 1
+2012,Valencia,6,5,#ee3524,#000000, 6
+2013,RC Deportivo,1,9,#57175E,#000000, 1
+2013,Real Sociedad,2,6,#0067b1,#000000, 2
+2013,Sevilla,1,8,#f43333,#000000, 1
+2013,Atlético Madrid,9,3,#CB3524,#000000, 9
+2013,Real Madrid,32,1,#FEBE10,#000000, 32
+2013,Barcelona,22,2,#004c99,#000000, 22
+2013,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2013,Real Betis,1,7,#0BB363,#000000, 1
+2013,Valencia,6,5,#ee3524,#000000, 6
+2014,RC Deportivo,1,9,#57175E,#000000, 1
+2014,Real Sociedad,2,6,#0067b1,#000000, 2
+2014,Sevilla,1,8,#f43333,#000000, 1
+2014,Atlético Madrid,10,3,#CB3524,#000000, 10
+2014,Real Madrid,32,1,#FEBE10,#000000, 32
+2014,Barcelona,22,2,#004c99,#000000, 22
+2014,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2014,Real Betis,1,7,#0BB363,#000000, 1
+2014,Valencia,6,5,#ee3524,#000000, 6
+2015,RC Deportivo,1,9,#57175E,#000000, 1
+2015,Real Sociedad,2,6,#0067b1,#000000, 2
+2015,Sevilla,1,8,#f43333,#000000, 1
+2015,Atlético Madrid,10,3,#CB3524,#000000, 10
+2015,Real Madrid,32,1,#FEBE10,#000000, 32
+2015,Barcelona,23,2,#004c99,#000000, 23
+2015,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2015,Real Betis,1,7,#0BB363,#000000, 1
+2015,Valencia,6,5,#ee3524,#000000, 6
+2016,RC Deportivo,1,9,#57175E,#000000, 1
+2016,Real Sociedad,2,6,#0067b1,#000000, 2
+2016,Sevilla,1,8,#f43333,#000000, 1
+2016,Atlético Madrid,10,3,#CB3524,#000000, 10
+2016,Real Madrid,32,1,#FEBE10,#000000, 32
+2016,Barcelona,24,2,#004c99,#000000, 24
+2016,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2016,Real Betis,1,7,#0BB363,#000000, 1
+2016,Valencia,6,5,#ee3524,#000000, 6
+2017,RC Deportivo,1,9,#57175E,#000000, 1
+2017,Real Sociedad,2,6,#0067b1,#000000, 2
+2017,Sevilla,1,8,#f43333,#000000, 1
+2017,Atlético Madrid,10,3,#CB3524,#000000, 10
+2017,Real Madrid,33,1,#FEBE10,#000000, 33
+2017,Barcelona,24,2,#004c99,#000000, 24
+2017,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2017,Real Betis,1,7,#0BB363,#000000, 1
+2017,Valencia,6,5,#ee3524,#000000, 6
+2018,RC Deportivo,1,9,#57175E,#000000, 1
+2018,Real Sociedad,2,6,#0067b1,#000000, 2
+2018,Sevilla,1,8,#f43333,#000000, 1
+2018,Atlético Madrid,10,3,#CB3524,#000000, 10
+2018,Real Madrid,33,1,#FEBE10,#000000, 33
+2018,Barcelona,25,2,#004c99,#000000, 25
+2018,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2018,Real Betis,1,7,#0BB363,#000000, 1
+2018,Valencia,6,5,#ee3524,#000000, 6
+2019,RC Deportivo,1,9,#57175E,#000000, 1
+2019,Real Sociedad,2,6,#0067b1,#000000, 2
+2019,Sevilla,1,8,#f43333,#000000, 1
+2019,Atlético Madrid,10,3,#CB3524,#000000, 10
+2019,Real Madrid,33,1,#FEBE10,#000000, 33
+2019,Barcelona,26,2,#004c99,#000000, 26
+2019,Athletic Bilbao,8,4,#ee2523,#000000, 8
+2019,Real Betis,1,7,#0BB363,#000000, 1
+2019,Valencia,6,5,#ee3524,#000000, 6

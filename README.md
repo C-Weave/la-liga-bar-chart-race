@@ -12,8 +12,8 @@ Once you understand how the data needs to be structured and the basics of the an
 library(gganimate)
 library(tidyverse)
 ```
-## Screenshot
-![Bar Chart Screenshot](images/barChartScreenshot.png)
+## Gif
+![Gif example](images/example.gif)
 
 ### Thanks to
 * [gganimate](https://github.com/thomasp85/gganimate) - animation package
